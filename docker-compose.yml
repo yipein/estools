@@ -1,0 +1,29 @@
+version: "2"
+services:
+  es:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.10.0
+    environment:
+      - "TZ=Asia/Taipei"
+      - "discovery.type=single-node"
+    ports:
+      - 9200:9200
+      - 9300:9300
+    volumes:
+      - ./es/data:/usr/share/elasticsearch/data
+
+  grafana:
+    image: grafana/grafana
+    stdin_open: true
+    tty: true
+    environment:
+      - "TZ=Asia/Taipei"
+      - "GF_SECURITY_ADMIN_PASSWORD=12345678"
+    ports:
+      - 3000:3000
+    volumes:
+      - ./grafana/data:/var/lib/grafana
+
+  cerebro:
+    image: lmenezes/cerebro:latest
+    ports:
+      - 9000:9000
