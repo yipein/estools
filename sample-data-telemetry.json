@@ -1,0 +1,520 @@
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T08:56:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T08:57:13.038Z","value":119,"timestamp":"2020-11-22T08:56:00.000Z","mpm":14,"max":119,"min":105,"start":105,"end":119,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T08:57:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T08:57:59.457Z","value":134,"timestamp":"2020-11-22T08:57:00.000Z","mpm":15,"max":134,"min":120,"start":120,"end":134,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T08:58:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T08:59:00.355Z","value":149,"timestamp":"2020-11-22T08:58:00.000Z","mpm":15,"max":149,"min":135,"start":135,"end":149,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T08:59:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:00:01.025Z","value":164,"timestamp":"2020-11-22T08:59:00.000Z","mpm":15,"max":164,"min":150,"start":150,"end":164,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:00:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:00:59.164Z","value":178,"timestamp":"2020-11-22T09:00:00.000Z","mpm":14,"max":178,"min":165,"start":165,"end":178,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:01:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:02:00.046Z","value":193,"timestamp":"2020-11-22T09:01:00.000Z","mpm":15,"max":193,"min":179,"start":179,"end":193,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:02:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:02:59.930Z","value":208,"timestamp":"2020-11-22T09:02:00.000Z","mpm":15,"max":208,"min":194,"start":194,"end":208,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:03:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:04:01.141Z","value":223,"timestamp":"2020-11-22T09:03:00.000Z","mpm":15,"max":223,"min":209,"start":209,"end":223,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:04:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:05:00.032Z","value":238,"timestamp":"2020-11-22T09:04:00.000Z","mpm":15,"max":238,"min":224,"start":224,"end":238,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:05:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:06:00.904Z","value":253,"timestamp":"2020-11-22T09:05:00.000Z","mpm":15,"max":253,"min":238,"start":238,"end":253,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:06:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:06:59.615Z","value":267,"timestamp":"2020-11-22T09:06:00.000Z","mpm":14,"max":267,"min":254,"start":254,"end":267,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:07:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:08:00.790Z","value":283,"timestamp":"2020-11-22T09:07:00.000Z","mpm":16,"max":283,"min":268,"start":268,"end":283,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:08:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:08:59.253Z","value":297,"timestamp":"2020-11-22T09:08:00.000Z","mpm":14,"max":297,"min":283,"start":283,"end":297,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:09:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:10:00.481Z","value":312,"timestamp":"2020-11-22T09:09:00.000Z","mpm":15,"max":312,"min":298,"start":298,"end":312,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:10:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:10:59.117Z","value":327,"timestamp":"2020-11-22T09:10:00.000Z","mpm":15,"max":327,"min":313,"start":313,"end":327,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:11:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:12:00.173Z","value":342,"timestamp":"2020-11-22T09:11:00.000Z","mpm":15,"max":342,"min":327,"start":327,"end":342,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:12:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:12:58.775Z","value":356,"timestamp":"2020-11-22T09:12:00.000Z","mpm":14,"max":356,"min":342,"start":342,"end":356,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:13:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:13:59.772Z","value":371,"timestamp":"2020-11-22T09:13:00.000Z","mpm":15,"max":371,"min":357,"start":357,"end":371,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:14:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:15:01.351Z","value":386,"timestamp":"2020-11-22T09:14:00.000Z","mpm":15,"max":386,"min":372,"start":372,"end":386,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:15:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:15:59.916Z","value":401,"timestamp":"2020-11-22T09:15:00.000Z","mpm":15,"max":401,"min":387,"start":387,"end":401,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:16:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:17:00.418Z","value":416,"timestamp":"2020-11-22T09:16:00.000Z","mpm":15,"max":416,"min":402,"start":402,"end":416,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:17:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:17:59.011Z","value":430,"timestamp":"2020-11-22T09:17:00.000Z","mpm":14,"max":430,"min":417,"start":417,"end":430,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:18:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:18:59.944Z","value":445,"timestamp":"2020-11-22T09:18:00.000Z","mpm":15,"max":445,"min":431,"start":431,"end":445,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:19:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:19:58.090Z","value":460,"timestamp":"2020-11-22T09:19:00.000Z","mpm":15,"max":460,"min":446,"start":446,"end":460,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:20:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:20:59.152Z","value":475,"timestamp":"2020-11-22T09:20:00.000Z","mpm":15,"max":475,"min":461,"start":461,"end":475,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:21:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:22:00.488Z","value":490,"timestamp":"2020-11-22T09:21:00.000Z","mpm":15,"max":490,"min":476,"start":476,"end":490,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:22:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:22:58.976Z","value":505,"timestamp":"2020-11-22T09:22:00.000Z","mpm":15,"max":505,"min":491,"start":491,"end":505,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:23:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:24:00.200Z","value":520,"timestamp":"2020-11-22T09:23:00.000Z","mpm":15,"max":520,"min":505,"start":505,"end":520,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:24:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:24:58.424Z","value":534,"timestamp":"2020-11-22T09:24:00.000Z","mpm":14,"max":534,"min":520,"start":520,"end":534,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:25:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:25:59.733Z","value":549,"timestamp":"2020-11-22T09:25:00.000Z","mpm":15,"max":549,"min":535,"start":535,"end":549,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:26:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:26:58.648Z","value":564,"timestamp":"2020-11-22T09:26:00.000Z","mpm":15,"max":564,"min":550,"start":550,"end":564,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:27:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:27:59.422Z","value":579,"timestamp":"2020-11-22T09:27:00.000Z","mpm":15,"max":579,"min":564,"start":564,"end":579,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:28:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:29:00.828Z","value":594,"timestamp":"2020-11-22T09:28:00.000Z","mpm":15,"max":594,"min":580,"start":580,"end":594,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:29:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:29:58.869Z","value":608,"timestamp":"2020-11-22T09:29:00.000Z","mpm":14,"max":608,"min":595,"start":595,"end":608,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:30:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:30:59.869Z","value":623,"timestamp":"2020-11-22T09:30:00.000Z","mpm":15,"max":623,"min":609,"start":609,"end":623,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:31:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:31:58.310Z","value":638,"timestamp":"2020-11-22T09:31:00.000Z","mpm":15,"max":638,"min":624,"start":624,"end":638,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:32:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:32:59.258Z","value":653,"timestamp":"2020-11-22T09:32:00.000Z","mpm":15,"max":653,"min":639,"start":639,"end":653,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:33:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:34:00.860Z","value":668,"timestamp":"2020-11-22T09:33:00.000Z","mpm":15,"max":668,"min":654,"start":654,"end":668,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:34:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:34:59.058Z","value":683,"timestamp":"2020-11-22T09:34:00.000Z","mpm":15,"max":683,"min":669,"start":669,"end":683,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:35:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:36:00.047Z","value":698,"timestamp":"2020-11-22T09:35:00.000Z","mpm":15,"max":698,"min":683,"start":683,"end":698,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:36:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:36:58.450Z","value":712,"timestamp":"2020-11-22T09:36:00.000Z","mpm":14,"max":712,"min":698,"start":698,"end":712,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:37:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:37:59.772Z","value":727,"timestamp":"2020-11-22T09:37:00.000Z","mpm":15,"max":727,"min":713,"start":713,"end":727,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:38:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:38:57.943Z","value":742,"timestamp":"2020-11-22T09:38:00.000Z","mpm":15,"max":742,"min":728,"start":728,"end":742,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:39:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:39:59.115Z","value":757,"timestamp":"2020-11-22T09:39:00.000Z","mpm":15,"max":757,"min":742,"start":742,"end":757,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:40:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:41:00.558Z","value":772,"timestamp":"2020-11-22T09:40:00.000Z","mpm":15,"max":772,"min":757,"start":757,"end":772,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:41:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:41:59.111Z","value":786,"timestamp":"2020-11-22T09:41:00.000Z","mpm":14,"max":786,"min":773,"start":773,"end":786,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:42:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:42:59.685Z","value":801,"timestamp":"2020-11-22T09:42:00.000Z","mpm":15,"max":801,"min":79,"start":787,"end":801,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:43:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:43:58.467Z","value":816,"timestamp":"2020-11-22T09:43:00.000Z","mpm":15,"max":816,"min":802,"start":802,"end":816,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:44:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:44:59.520Z","value":831,"timestamp":"2020-11-22T09:44:00.000Z","mpm":15,"max":831,"min":817,"start":817,"end":831,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:45:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:46:00.594Z","value":846,"timestamp":"2020-11-22T09:45:00.000Z","mpm":15,"max":846,"min":832,"start":832,"end":846,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:46:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:46:59.032Z","value":860,"timestamp":"2020-11-22T09:46:00.000Z","mpm":14,"max":860,"min":847,"start":847,"end":860,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:47:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:47:59.630Z","value":876,"timestamp":"2020-11-22T09:47:00.000Z","mpm":16,"max":876,"min":861,"start":861,"end":876,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:48:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:48:58.001Z","value":890,"timestamp":"2020-11-22T09:48:00.000Z","mpm":14,"max":890,"min":876,"start":876,"end":890,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:49:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:49:59.339Z","value":905,"timestamp":"2020-11-22T09:49:00.000Z","mpm":15,"max":905,"min":891,"start":891,"end":905,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:50:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:51:00.259Z","value":920,"timestamp":"2020-11-22T09:50:00.000Z","mpm":15,"max":920,"min":906,"start":906,"end":920,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:51:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:51:58.802Z","value":935,"timestamp":"2020-11-22T09:51:00.000Z","mpm":15,"max":935,"min":921,"start":921,"end":935,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:52:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:53:00.145Z","value":950,"timestamp":"2020-11-22T09:52:00.000Z","mpm":15,"max":950,"min":935,"start":935,"end":950,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:53:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:53:58.709Z","value":964,"timestamp":"2020-11-22T09:53:00.000Z","mpm":14,"max":964,"min":950,"start":950,"end":964,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:54:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:54:59.525Z","value":979,"timestamp":"2020-11-22T09:54:00.000Z","mpm":15,"max":979,"min":965,"start":965,"end":979,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:55:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:55:58.374Z","value":994,"timestamp":"2020-11-22T09:55:00.000Z","mpm":15,"max":994,"min":98,"start":980,"end":994,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:56:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:56:59.614Z","value":1009,"timestamp":"2020-11-22T09:56:00.000Z","mpm":15,"max":1009,"min":994,"start":994,"end":1009,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:57:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:57:58.707Z","value":1023,"timestamp":"2020-11-22T09:57:00.000Z","mpm":14,"max":1023,"min":1010,"start":1010,"end":1023,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:58:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:59:00.416Z","value":1039,"timestamp":"2020-11-22T09:58:00.000Z","mpm":16,"max":1039,"min":1024,"start":1024,"end":1039,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T09:59:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T09:59:59.241Z","value":1053,"timestamp":"2020-11-22T09:59:00.000Z","mpm":14,"max":1053,"min":1040,"start":1040,"end":1053,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:00:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:00:58.191Z","value":1068,"timestamp":"2020-11-22T10:00:00.000Z","mpm":15,"max":1068,"min":1054,"start":1054,"end":1068,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:01:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:01:59.932Z","value":1083,"timestamp":"2020-11-22T10:01:00.000Z","mpm":15,"max":1083,"min":1069,"start":1069,"end":1083,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:02:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:02:58.645Z","value":1098,"timestamp":"2020-11-22T10:02:00.000Z","mpm":15,"max":1098,"min":1083,"start":1084,"end":1098,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:03:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:04:00.223Z","value":1113,"timestamp":"2020-11-22T10:03:00.000Z","mpm":15,"max":1113,"min":1098,"start":1098,"end":1113,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:04:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:04:58.708Z","value":1127,"timestamp":"2020-11-22T10:04:00.000Z","mpm":14,"max":1127,"min":1114,"start":1114,"end":1127,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:05:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:06:00.254Z","value":1142,"timestamp":"2020-11-22T10:05:00.000Z","mpm":15,"max":1142,"min":114,"start":1128,"end":114,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:06:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:06:58.582Z","value":1157,"timestamp":"2020-11-22T10:06:00.000Z","mpm":15,"max":1157,"min":1143,"start":1143,"end":1157,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:07:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:07:59.926Z","value":1172,"timestamp":"2020-11-22T10:07:00.000Z","mpm":15,"max":1172,"min":1158,"start":1158,"end":1172,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:08:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:08:58.686Z","value":1187,"timestamp":"2020-11-22T10:08:00.000Z","mpm":15,"max":1187,"min":1173,"start":1173,"end":1187,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:09:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:10:00.094Z","value":1202,"timestamp":"2020-11-22T10:09:00.000Z","mpm":15,"max":1202,"min":1187,"start":1187,"end":1202,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:10:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:10:58.682Z","value":1216,"timestamp":"2020-11-22T10:10:00.000Z","mpm":14,"max":1216,"min":1203,"start":1203,"end":1216,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:11:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:12:00.706Z","value":1232,"timestamp":"2020-11-22T10:11:00.000Z","mpm":16,"max":1232,"min":1217,"start":1217,"end":1232,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:12:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:12:59.179Z","value":1246,"timestamp":"2020-11-22T10:12:00.000Z","mpm":14,"max":1246,"min":1232,"start":1232,"end":1246,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:13:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:13:58.487Z","value":1261,"timestamp":"2020-11-22T10:13:00.000Z","mpm":15,"max":1261,"min":1247,"start":1247,"end":1261,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:14:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:15:00.009Z","value":1276,"timestamp":"2020-11-22T10:14:00.000Z","mpm":15,"max":1276,"min":1261,"start":1261,"end":1276,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:15:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:15:59.095Z","value":1291,"timestamp":"2020-11-22T10:15:00.000Z","mpm":15,"max":1291,"min":1277,"start":1277,"end":1291,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:16:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:16:58.277Z","value":1305,"timestamp":"2020-11-22T10:16:00.000Z","mpm":14,"max":1305,"min":1291,"start":1291,"end":1305,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:17:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:17:58.720Z","value":1320,"timestamp":"2020-11-22T10:17:00.000Z","mpm":15,"max":1320,"min":1306,"start":1306,"end":1320,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:18:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:19:00.166Z","value":1335,"timestamp":"2020-11-22T10:18:00.000Z","mpm":15,"max":1335,"min":1321,"start":1321,"end":1335,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:19:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:19:59.324Z","value":1350,"timestamp":"2020-11-22T10:19:00.000Z","mpm":15,"max":1350,"min":1336,"start":1336,"end":1350,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:20:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:21:00.939Z","value":1365,"timestamp":"2020-11-22T10:20:00.000Z","mpm":15,"max":1365,"min":1351,"start":1351,"end":1365,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:21:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:21:59.090Z","value":1379,"timestamp":"2020-11-22T10:21:00.000Z","mpm":14,"max":1379,"min":1366,"start":1366,"end":1379,"doc_count":19}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:22:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:23:00.305Z","value":1395,"timestamp":"2020-11-22T10:22:00.000Z","mpm":16,"max":1395,"min":1380,"start":1380,"end":1395,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:23:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:23:59.219Z","value":1409,"timestamp":"2020-11-22T10:23:00.000Z","mpm":14,"max":1409,"min":1395,"start":1395,"end":1409,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:24:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:25:00.569Z","value":1424,"timestamp":"2020-11-22T10:24:00.000Z","mpm":15,"max":1424,"min":1410,"start":1410,"end":1424,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:25:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:25:59.326Z","value":1439,"timestamp":"2020-11-22T10:25:00.000Z","mpm":15,"max":1439,"min":143,"start":1425,"end":1439,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:26:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:27:00.759Z","value":1454,"timestamp":"2020-11-22T10:26:00.000Z","mpm":15,"max":1454,"min":1440,"start":1440,"end":1454,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:27:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:27:59.618Z","value":1469,"timestamp":"2020-11-22T10:27:00.000Z","mpm":15,"max":1469,"min":1455,"start":1455,"end":1469,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:28:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:28:58.680Z","value":1483,"timestamp":"2020-11-22T10:28:00.000Z","mpm":14,"max":1483,"min":1469,"start":1469,"end":1483,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:29:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:30:00.376Z","value":1498,"timestamp":"2020-11-22T10:29:00.000Z","mpm":15,"max":1498,"min":1484,"start":1484,"end":1498,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:30:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:30:58.970Z","value":1513,"timestamp":"2020-11-22T10:30:00.000Z","mpm":15,"max":1513,"min":1499,"start":1499,"end":1513,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:31:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:32:00.496Z","value":1528,"timestamp":"2020-11-22T10:31:00.000Z","mpm":15,"max":1528,"min":1514,"start":1514,"end":1528,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:32:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:32:59.667Z","value":1543,"timestamp":"2020-11-22T10:32:00.000Z","mpm":15,"max":1543,"min":1529,"start":1529,"end":1543,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:33:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:33:58.184Z","value":1557,"timestamp":"2020-11-22T10:33:00.000Z","mpm":14,"max":1557,"min":1543,"start":1543,"end":1557,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:34:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:34:59.759Z","value":1572,"timestamp":"2020-11-22T10:34:00.000Z","mpm":15,"max":1572,"min":1558,"start":1558,"end":1572,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:35:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:35:58.837Z","value":1587,"timestamp":"2020-11-22T10:35:00.000Z","mpm":15,"max":1587,"min":1573,"start":1573,"end":1587,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:36:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:37:00.652Z","value":1602,"timestamp":"2020-11-22T10:36:00.000Z","mpm":15,"max":1602,"min":1588,"start":1588,"end":1602,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:37:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:37:59.681Z","value":1617,"timestamp":"2020-11-22T10:37:00.000Z","mpm":15,"max":1617,"min":1603,"start":1603,"end":1617,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:38:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:38:58.402Z","value":1631,"timestamp":"2020-11-22T10:38:00.000Z","mpm":14,"max":1631,"min":1618,"start":1618,"end":1631,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:39:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:39:59.922Z","value":1647,"timestamp":"2020-11-22T10:39:00.000Z","mpm":16,"max":1647,"min":1632,"start":1632,"end":1647,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:40:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:40:58.926Z","value":1661,"timestamp":"2020-11-22T10:40:00.000Z","mpm":14,"max":1661,"min":1647,"start":1647,"end":1661,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:41:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:42:00.613Z","value":1676,"timestamp":"2020-11-22T10:41:00.000Z","mpm":15,"max":1676,"min":1662,"start":1662,"end":1676,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:42:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:42:59.623Z","value":1691,"timestamp":"2020-11-22T10:42:00.000Z","mpm":15,"max":1691,"min":1677,"start":1677,"end":1691,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:43:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:43:59.043Z","value":1706,"timestamp":"2020-11-22T10:43:00.000Z","mpm":15,"max":1706,"min":1692,"start":1692,"end":1706,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:44:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:45:00.273Z","value":1721,"timestamp":"2020-11-22T10:44:00.000Z","mpm":15,"max":1721,"min":1706,"start":1706,"end":1721,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:45:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:45:59.462Z","value":1735,"timestamp":"2020-11-22T10:45:00.000Z","mpm":14,"max":1735,"min":1721,"start":1721,"end":1735,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:46:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:47:00.602Z","value":1751,"timestamp":"2020-11-22T10:46:00.000Z","mpm":16,"max":1751,"min":1736,"start":1736,"end":1751,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:47:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:47:59.455Z","value":1765,"timestamp":"2020-11-22T10:47:00.000Z","mpm":14,"max":1765,"min":1751,"start":1751,"end":1765,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:48:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:48:58.281Z","value":1780,"timestamp":"2020-11-22T10:48:00.000Z","mpm":15,"max":1780,"min":1766,"start":1766,"end":1780,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:49:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:49:59.782Z","value":1795,"timestamp":"2020-11-22T10:49:00.000Z","mpm":15,"max":1795,"min":1780,"start":1780,"end":1795,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:50:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:50:59.094Z","value":1809,"timestamp":"2020-11-22T10:50:00.000Z","mpm":14,"max":1809,"min":1795,"start":1795,"end":1809,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:51:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:52:00.523Z","value":1825,"timestamp":"2020-11-22T10:51:00.000Z","mpm":16,"max":1825,"min":1810,"start":1810,"end":1825,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:52:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:52:59.445Z","value":1839,"timestamp":"2020-11-22T10:52:00.000Z","mpm":14,"max":1839,"min":1825,"start":1825,"end":1839,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:53:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:53:58.368Z","value":1854,"timestamp":"2020-11-22T10:53:00.000Z","mpm":15,"max":1854,"min":1840,"start":1840,"end":1854,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:54:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:55:00.033Z","value":1869,"timestamp":"2020-11-22T10:54:00.000Z","mpm":15,"max":1869,"min":1854,"start":1854,"end":1869,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:55:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:55:59.084Z","value":1883,"timestamp":"2020-11-22T10:55:00.000Z","mpm":14,"max":1883,"min":1870,"start":1870,"end":1883,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:56:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:57:00.305Z","value":1899,"timestamp":"2020-11-22T10:56:00.000Z","mpm":16,"max":1899,"min":1884,"start":1884,"end":1899,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:57:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:57:59.234Z","value":1913,"timestamp":"2020-11-22T10:57:00.000Z","mpm":14,"max":1913,"min":1899,"start":1899,"end":1913,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:58:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:59:03.412Z","value":1928,"timestamp":"2020-11-22T10:58:00.000Z","mpm":15,"max":1928,"min":1914,"start":1914,"end":1928,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T10:59:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T10:59:59.465Z","value":1943,"timestamp":"2020-11-22T10:59:00.000Z","mpm":15,"max":1943,"min":1929,"start":1929,"end":1943,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:00:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:00:58.765Z","value":1958,"timestamp":"2020-11-22T11:00:00.000Z","mpm":15,"max":1958,"min":1944,"start":1944,"end":1958,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:01:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:02:00.218Z","value":1973,"timestamp":"2020-11-22T11:01:00.000Z","mpm":15,"max":1973,"min":1958,"start":1958,"end":1973,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:02:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:02:59.375Z","value":1987,"timestamp":"2020-11-22T11:02:00.000Z","mpm":14,"max":1987,"min":1974,"start":1979,"end":1987,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:03:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:04:00.797Z","value":2003,"timestamp":"2020-11-22T11:03:00.000Z","mpm":16,"max":2003,"min":1988,"start":1988,"end":2003,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:04:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:04:59.697Z","value":2017,"timestamp":"2020-11-22T11:04:00.000Z","mpm":14,"max":2017,"min":2003,"start":2003,"end":2017,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:05:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:05:58.974Z","value":2030,"timestamp":"2020-11-22T11:05:00.000Z","mpm":13,"max":2030,"min":2018,"start":2018,"end":2030,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:06:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:06:59.385Z","value":2030,"timestamp":"2020-11-22T11:06:00.000Z","mpm":0,"max":2030,"min":0,"start":2030,"end":0,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:07:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:07:58.715Z","value":0,"timestamp":"2020-11-22T11:07:00.000Z","mpm":0,"max":0,"min":0,"start":0,"end":0,"doc_count":21,"reset":true}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:08:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:09:00.377Z","value":0,"timestamp":"2020-11-22T11:08:00.000Z","mpm":0,"max":0,"min":0,"start":0,"end":0,"doc_count":22}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:09:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:09:59.474Z","value":0,"timestamp":"2020-11-22T11:09:00.000Z","mpm":0,"max":0,"min":0,"start":0,"end":0,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:10:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:10:59.023Z","value":0,"timestamp":"2020-11-22T11:10:00.000Z","mpm":0,"max":0,"min":0,"start":0,"end":0,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:11:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:11:58.215Z","value":0,"timestamp":"2020-11-22T11:11:00.000Z","mpm":0,"max":0,"min":0,"start":0,"end":0,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:12:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:13:00.305Z","value":0,"timestamp":"2020-11-22T11:12:00.000Z","mpm":0,"max":0,"min":0,"start":0,"end":0,"doc_count":22}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:13:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:14:00.036Z","value":0,"timestamp":"2020-11-22T11:13:00.000Z","mpm":0,"max":0,"min":0,"start":0,"end":0,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:14:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:14:58.953Z","value":3,"timestamp":"2020-11-22T11:14:00.000Z","mpm":3,"max":3,"min":0,"start":0,"end":3,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:15:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:15:59.029Z","value":17,"timestamp":"2020-11-22T11:15:00.000Z","mpm":14,"max":17,"min":3,"start":3,"end":17,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:16:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:16:59.157Z","value":32,"timestamp":"2020-11-22T11:16:00.000Z","mpm":15,"max":32,"min":18,"start":18,"end":32,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:17:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:17:59.463Z","value":47,"timestamp":"2020-11-22T11:17:00.000Z","mpm":15,"max":47,"min":33,"start":33,"end":47,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:18:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:18:59.538Z","value":62,"timestamp":"2020-11-22T11:18:00.000Z","mpm":15,"max":62,"min":48,"start":48,"end":62,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:19:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:20:11.507Z","value":77,"timestamp":"2020-11-22T11:19:00.000Z","mpm":15,"max":77,"min":63,"start":63,"end":77,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:20:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:21:11.369Z","value":92,"timestamp":"2020-11-22T11:20:00.000Z","mpm":15,"max":92,"min":77,"start":77,"end":92,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:21:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:22:00.313Z","value":107,"timestamp":"2020-11-22T11:21:00.000Z","mpm":15,"max":107,"min":92,"start":92,"end":107,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:22:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:23:00.917Z","value":121,"timestamp":"2020-11-22T11:22:00.000Z","mpm":14,"max":121,"min":107,"start":107,"end":121,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:23:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:23:58.868Z","value":136,"timestamp":"2020-11-22T11:23:00.000Z","mpm":15,"max":136,"min":122,"start":122,"end":136,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:24:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:24:59.486Z","value":151,"timestamp":"2020-11-22T11:24:00.000Z","mpm":15,"max":151,"min":136,"start":136,"end":151,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:25:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:26:00.719Z","value":166,"timestamp":"2020-11-22T11:25:00.000Z","mpm":15,"max":166,"min":15,"start":15,"end":166,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:26:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:27:01.599Z","value":181,"timestamp":"2020-11-22T11:26:00.000Z","mpm":15,"max":181,"min":167,"start":167,"end":181,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:27:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:27:59.415Z","value":195,"timestamp":"2020-11-22T11:27:00.000Z","mpm":14,"max":195,"min":182,"start":182,"end":195,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:28:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:29:01.149Z","value":210,"timestamp":"2020-11-22T11:28:00.000Z","mpm":15,"max":210,"min":196,"start":196,"end":210,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:29:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:29:58.843Z","value":225,"timestamp":"2020-11-22T11:29:00.000Z","mpm":15,"max":225,"min":211,"start":211,"end":225,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:30:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:30:59.521Z","value":240,"timestamp":"2020-11-22T11:30:00.000Z","mpm":15,"max":240,"min":225,"start":225,"end":240,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:31:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:32:00.947Z","value":255,"timestamp":"2020-11-22T11:31:00.000Z","mpm":15,"max":255,"min":240,"start":240,"end":255,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:32:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:32:59.390Z","value":269,"timestamp":"2020-11-22T11:32:00.000Z","mpm":14,"max":269,"min":256,"start":256,"end":269,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:33:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:34:00.301Z","value":284,"timestamp":"2020-11-22T11:33:00.000Z","mpm":15,"max":284,"min":270,"start":270,"end":284,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:34:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:34:58.827Z","value":299,"timestamp":"2020-11-22T11:34:00.000Z","mpm":15,"max":299,"min":285,"start":285,"end":299,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:35:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:36:00.019Z","value":314,"timestamp":"2020-11-22T11:35:00.000Z","mpm":15,"max":314,"min":300,"start":300,"end":314,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:36:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:37:00.884Z","value":329,"timestamp":"2020-11-22T11:36:00.000Z","mpm":15,"max":329,"min":315,"start":315,"end":329,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:37:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:38:01.128Z","value":344,"timestamp":"2020-11-22T11:37:00.000Z","mpm":15,"max":344,"min":330,"start":330,"end":344,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:38:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:38:59.867Z","value":358,"timestamp":"2020-11-22T11:38:00.000Z","mpm":14,"max":358,"min":345,"start":345,"end":358,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:39:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:40:00.991Z","value":373,"timestamp":"2020-11-22T11:39:00.000Z","mpm":15,"max":373,"min":359,"start":359,"end":373,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:40:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:40:59.327Z","value":388,"timestamp":"2020-11-22T11:40:00.000Z","mpm":15,"max":388,"min":374,"start":374,"end":388,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:41:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:41:59.546Z","value":403,"timestamp":"2020-11-22T11:41:00.000Z","mpm":15,"max":403,"min":389,"start":389,"end":403,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:42:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:43:00.842Z","value":418,"timestamp":"2020-11-22T11:42:00.000Z","mpm":15,"max":418,"min":403,"start":403,"end":418,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:43:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:44:05.311Z","value":432,"timestamp":"2020-11-22T11:43:00.000Z","mpm":14,"max":432,"min":419,"start":419,"end":432,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:44:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:44:59.839Z","value":439,"timestamp":"2020-11-22T11:44:00.000Z","mpm":7,"max":439,"min":433,"start":433,"end":439,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:45:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:46:01.441Z","value":454,"timestamp":"2020-11-22T11:45:00.000Z","mpm":15,"max":454,"min":440,"start":440,"end":454,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:46:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:46:59.523Z","value":468,"timestamp":"2020-11-22T11:46:00.000Z","mpm":14,"max":468,"min":455,"start":455,"end":468,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:47:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:48:00.957Z","value":484,"timestamp":"2020-11-22T11:47:00.000Z","mpm":16,"max":484,"min":469,"start":469,"end":484,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:48:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:48:58.938Z","value":498,"timestamp":"2020-11-22T11:48:00.000Z","mpm":14,"max":498,"min":484,"start":484,"end":498,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:49:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:50:00.233Z","value":513,"timestamp":"2020-11-22T11:49:00.000Z","mpm":15,"max":513,"min":499,"start":499,"end":513,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:50:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:51:01.610Z","value":528,"timestamp":"2020-11-22T11:50:00.000Z","mpm":15,"max":528,"min":514,"start":514,"end":528,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:51:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:51:59.641Z","value":543,"timestamp":"2020-11-22T11:51:00.000Z","mpm":15,"max":543,"min":53,"start":529,"end":543,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:52:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:53:01.270Z","value":558,"timestamp":"2020-11-22T11:52:00.000Z","mpm":15,"max":558,"min":543,"start":543,"end":558,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:53:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:53:59.219Z","value":572,"timestamp":"2020-11-22T11:53:00.000Z","mpm":14,"max":572,"min":558,"start":558,"end":572,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:54:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:55:00.464Z","value":587,"timestamp":"2020-11-22T11:54:00.000Z","mpm":15,"max":587,"min":573,"start":573,"end":587,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:55:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:55:59.510Z","value":602,"timestamp":"2020-11-22T11:55:00.000Z","mpm":15,"max":602,"min":588,"start":588,"end":602,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:56:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:56:59.997Z","value":617,"timestamp":"2020-11-22T11:56:00.000Z","mpm":15,"max":617,"min":602,"start":602,"end":617,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:57:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:58:01.143Z","value":632,"timestamp":"2020-11-22T11:57:00.000Z","mpm":15,"max":632,"min":617,"start":617,"end":632,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:58:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T11:58:59.604Z","value":646,"timestamp":"2020-11-22T11:58:00.000Z","mpm":14,"max":646,"min":633,"start":633,"end":646,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T11:59:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:00:00.834Z","value":661,"timestamp":"2020-11-22T11:59:00.000Z","mpm":15,"max":661,"min":647,"start":647,"end":661,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:00:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:00:58.973Z","value":676,"timestamp":"2020-11-22T12:00:00.000Z","mpm":15,"max":676,"min":662,"start":662,"end":676,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:01:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:02:00.543Z","value":691,"timestamp":"2020-11-22T12:01:00.000Z","mpm":15,"max":691,"min":677,"start":677,"end":691,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:02:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:02:58.625Z","value":705,"timestamp":"2020-11-22T12:02:00.000Z","mpm":14,"max":705,"min":692,"start":692,"end":705,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:03:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:03:59.579Z","value":720,"timestamp":"2020-11-22T12:03:00.000Z","mpm":15,"max":720,"min":706,"start":706,"end":720,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:04:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:05:15.267Z","value":736,"timestamp":"2020-11-22T12:04:00.000Z","mpm":16,"max":736,"min":721,"start":721,"end":736,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:05:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:06:01.260Z","value":750,"timestamp":"2020-11-22T12:05:00.000Z","mpm":14,"max":750,"min":736,"start":736,"end":750,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:06:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:06:59.473Z","value":765,"timestamp":"2020-11-22T12:06:00.000Z","mpm":15,"max":765,"min":751,"start":751,"end":765,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:07:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:08:00.680Z","value":780,"timestamp":"2020-11-22T12:07:00.000Z","mpm":15,"max":780,"min":766,"start":766,"end":780,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:08:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:08:58.607Z","value":794,"timestamp":"2020-11-22T12:08:00.000Z","mpm":14,"max":794,"min":781,"start":781,"end":794,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:09:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:09:59.595Z","value":809,"timestamp":"2020-11-22T12:09:00.000Z","mpm":15,"max":809,"min":795,"start":795,"end":809,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:10:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:11:00.883Z","value":825,"timestamp":"2020-11-22T12:10:00.000Z","mpm":16,"max":825,"min":810,"start":810,"end":825,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:11:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:11:59.289Z","value":839,"timestamp":"2020-11-22T12:11:00.000Z","mpm":14,"max":839,"min":825,"start":825,"end":839,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:12:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:13:00.560Z","value":854,"timestamp":"2020-11-22T12:12:00.000Z","mpm":15,"max":854,"min":840,"start":840,"end":854,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:13:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:13:59.078Z","value":869,"timestamp":"2020-11-22T12:13:00.000Z","mpm":15,"max":869,"min":855,"start":855,"end":869,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:14:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:14:59.881Z","value":884,"timestamp":"2020-11-22T12:14:00.000Z","mpm":15,"max":884,"min":869,"start":869,"end":884,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:15:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:15:58.831Z","value":898,"timestamp":"2020-11-22T12:15:00.000Z","mpm":14,"max":898,"min":884,"start":884,"end":898,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:16:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:16:59.655Z","value":913,"timestamp":"2020-11-22T12:16:00.000Z","mpm":15,"max":913,"min":899,"start":899,"end":913,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:17:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:18:00.836Z","value":928,"timestamp":"2020-11-22T12:17:00.000Z","mpm":15,"max":928,"min":914,"start":914,"end":928,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:18:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:18:58.852Z","value":943,"timestamp":"2020-11-22T12:18:00.000Z","mpm":15,"max":943,"min":929,"start":929,"end":943,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:19:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:19:59.994Z","value":958,"timestamp":"2020-11-22T12:19:00.000Z","mpm":15,"max":958,"min":943,"start":943,"end":958,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:20:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:21:01.410Z","value":973,"timestamp":"2020-11-22T12:20:00.000Z","mpm":15,"max":973,"min":959,"start":959,"end":973,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:21:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:21:59.829Z","value":987,"timestamp":"2020-11-22T12:21:00.000Z","mpm":14,"max":987,"min":974,"start":974,"end":987,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:22:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:23:01.338Z","value":1003,"timestamp":"2020-11-22T12:22:00.000Z","mpm":16,"max":1003,"min":988,"start":988,"end":1003,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:23:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:24:00.079Z","value":1017,"timestamp":"2020-11-22T12:23:00.000Z","mpm":14,"max":1017,"min":1003,"start":1003,"end":1017,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:24:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:24:59.263Z","value":1032,"timestamp":"2020-11-22T12:24:00.000Z","mpm":15,"max":1032,"min":1018,"start":1018,"end":1032,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:25:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:26:00.877Z","value":1047,"timestamp":"2020-11-22T12:25:00.000Z","mpm":15,"max":1047,"min":1032,"start":1032,"end":1047,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:26:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:26:59.666Z","value":1061,"timestamp":"2020-11-22T12:26:00.000Z","mpm":14,"max":1061,"min":1048,"start":1048,"end":1061,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:27:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:28:01.351Z","value":1077,"timestamp":"2020-11-22T12:27:00.000Z","mpm":16,"max":1077,"min":1062,"start":1062,"end":1077,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:28:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:29:00.237Z","value":1091,"timestamp":"2020-11-22T12:28:00.000Z","mpm":14,"max":1091,"min":1077,"start":1077,"end":1091,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:29:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:29:58.629Z","value":1106,"timestamp":"2020-11-22T12:29:00.000Z","mpm":15,"max":1106,"min":1092,"start":1092,"end":1106,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:30:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:30:59.982Z","value":1121,"timestamp":"2020-11-22T12:30:00.000Z","mpm":15,"max":1121,"min":1106,"start":1106,"end":1121,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:31:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:31:58.591Z","value":1135,"timestamp":"2020-11-22T12:31:00.000Z","mpm":14,"max":1135,"min":1122,"start":1122,"end":1135,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:32:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:33:00.231Z","value":1151,"timestamp":"2020-11-22T12:32:00.000Z","mpm":16,"max":1151,"min":1136,"start":1136,"end":1151,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:33:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:33:58.432Z","value":1165,"timestamp":"2020-11-22T12:33:00.000Z","mpm":14,"max":1165,"min":1151,"start":1151,"end":1165,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:34:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:35:00.291Z","value":1188,"timestamp":"2020-11-22T12:34:00.000Z","mpm":23,"max":1188,"min":1166,"start":1166,"end":1180,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:35:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:35:58.694Z","value":1195,"timestamp":"2020-11-22T12:35:00.000Z","mpm":7,"max":1195,"min":1181,"start":1181,"end":1195,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:36:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:37:00.264Z","value":1210,"timestamp":"2020-11-22T12:36:00.000Z","mpm":15,"max":1210,"min":1195,"start":1195,"end":1210,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:37:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:37:59.162Z","value":1224,"timestamp":"2020-11-22T12:37:00.000Z","mpm":14,"max":1224,"min":1211,"start":1211,"end":1224,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:38:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:39:06.177Z","value":1240,"timestamp":"2020-11-22T12:38:00.000Z","mpm":16,"max":1240,"min":1225,"start":1225,"end":1240,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:39:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:39:59.296Z","value":1254,"timestamp":"2020-11-22T12:39:00.000Z","mpm":14,"max":1254,"min":1240,"start":1240,"end":1254,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:40:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:41:01.168Z","value":1270,"timestamp":"2020-11-22T12:40:00.000Z","mpm":16,"max":1270,"min":1255,"start":1255,"end":1270,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:41:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:41:59.762Z","value":1284,"timestamp":"2020-11-22T12:41:00.000Z","mpm":14,"max":1284,"min":1270,"start":1270,"end":1284,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:42:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:42:58.723Z","value":1299,"timestamp":"2020-11-22T12:42:00.000Z","mpm":15,"max":1299,"min":1285,"start":1285,"end":1299,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:43:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:44:00.263Z","value":1314,"timestamp":"2020-11-22T12:43:00.000Z","mpm":15,"max":1314,"min":1299,"start":1299,"end":1314,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:44:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:44:59.411Z","value":1328,"timestamp":"2020-11-22T12:44:00.000Z","mpm":14,"max":1328,"min":1315,"start":1315,"end":1328,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:45:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:46:00.958Z","value":1344,"timestamp":"2020-11-22T12:45:00.000Z","mpm":16,"max":1344,"min":1329,"start":1329,"end":1344,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:46:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:47:00.122Z","value":1358,"timestamp":"2020-11-22T12:46:00.000Z","mpm":14,"max":1358,"min":1344,"start":1344,"end":1358,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:47:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:47:58.530Z","value":1373,"timestamp":"2020-11-22T12:47:00.000Z","mpm":15,"max":1373,"min":1359,"start":1359,"end":1373,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:48:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:49:00.559Z","value":1388,"timestamp":"2020-11-22T12:48:00.000Z","mpm":15,"max":1388,"min":1374,"start":1374,"end":1388,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:49:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:49:59.358Z","value":1403,"timestamp":"2020-11-22T12:49:00.000Z","mpm":15,"max":1403,"min":1389,"start":1389,"end":1403,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:50:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:50:59.837Z","value":1418,"timestamp":"2020-11-22T12:50:00.000Z","mpm":15,"max":1418,"min":1403,"start":1403,"end":1418,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:51:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:52:01.147Z","value":1433,"timestamp":"2020-11-22T12:51:00.000Z","mpm":15,"max":1433,"min":1418,"start":1418,"end":1433,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:52:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:53:11.422Z","value":1447,"timestamp":"2020-11-22T12:52:00.000Z","mpm":14,"max":1447,"min":1434,"start":1434,"end":1447,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:53:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:53:58.738Z","value":1462,"timestamp":"2020-11-22T12:53:00.000Z","mpm":15,"max":1462,"min":1448,"start":1448,"end":1462,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:54:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:55:00.343Z","value":1477,"timestamp":"2020-11-22T12:54:00.000Z","mpm":15,"max":1477,"min":1463,"start":1463,"end":1477,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:55:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:55:58.951Z","value":1492,"timestamp":"2020-11-22T12:55:00.000Z","mpm":15,"max":1492,"min":1478,"start":1478,"end":1492,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:56:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:57:00.892Z","value":1507,"timestamp":"2020-11-22T12:56:00.000Z","mpm":15,"max":1507,"min":1493,"start":1493,"end":1507,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:57:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:57:59.693Z","value":1522,"timestamp":"2020-11-22T12:57:00.000Z","mpm":15,"max":1522,"min":1508,"start":1508,"end":1522,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:58:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T12:58:59.074Z","value":1536,"timestamp":"2020-11-22T12:58:00.000Z","mpm":14,"max":1536,"min":1522,"start":1522,"end":1536,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T12:59:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:00:00.263Z","value":1552,"timestamp":"2020-11-22T12:59:00.000Z","mpm":16,"max":1552,"min":1537,"start":1537,"end":1552,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:00:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:00:58.950Z","value":1566,"timestamp":"2020-11-22T13:00:00.000Z","mpm":14,"max":1566,"min":1552,"start":1552,"end":1566,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:01:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:02:00.766Z","value":1581,"timestamp":"2020-11-22T13:01:00.000Z","mpm":15,"max":1581,"min":1567,"start":1567,"end":1581,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:02:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:02:59.788Z","value":1596,"timestamp":"2020-11-22T13:02:00.000Z","mpm":15,"max":1596,"min":1582,"start":1582,"end":1596,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:03:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:04:01.732Z","value":1611,"timestamp":"2020-11-22T13:03:00.000Z","mpm":15,"max":1611,"min":1597,"start":1597,"end":1611,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:04:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:05:00.250Z","value":1626,"timestamp":"2020-11-22T13:04:00.000Z","mpm":15,"max":1626,"min":1612,"start":1612,"end":1626,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:05:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:05:58.728Z","value":1640,"timestamp":"2020-11-22T13:05:00.000Z","mpm":14,"max":1640,"min":1626,"start":1626,"end":1640,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:06:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:07:00.202Z","value":1656,"timestamp":"2020-11-22T13:06:00.000Z","mpm":16,"max":1656,"min":1641,"start":1641,"end":1656,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:07:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:07:59.266Z","value":1670,"timestamp":"2020-11-22T13:07:00.000Z","mpm":14,"max":1670,"min":1656,"start":1656,"end":1670,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:08:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:09:00.971Z","value":1685,"timestamp":"2020-11-22T13:08:00.000Z","mpm":15,"max":1685,"min":1671,"start":1671,"end":1685,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:09:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:10:00.121Z","value":1700,"timestamp":"2020-11-22T13:09:00.000Z","mpm":15,"max":1700,"min":1686,"start":1686,"end":1700,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:10:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:10:58.629Z","value":1715,"timestamp":"2020-11-22T13:10:00.000Z","mpm":15,"max":1715,"min":1701,"start":1701,"end":1715,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:11:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:11:59.434Z","value":1729,"timestamp":"2020-11-22T13:11:00.000Z","mpm":14,"max":1729,"min":1716,"start":1716,"end":1729,"doc_count":20}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:12:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:12:59.498Z","value":1729,"timestamp":"2020-11-22T13:12:00.000Z","mpm":0,"max":1729,"min":0,"start":1729,"end":0,"doc_count":21}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:13:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:13:59.018Z","value":0,"timestamp":"2020-11-22T13:13:00.000Z","mpm":0,"max":0,"min":0,"start":0,"end":0,"doc_count":21,"reset":true}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:14:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:15:00.828Z","value":0,"timestamp":"2020-11-22T13:14:00.000Z","mpm":0,"max":0,"min":0,"start":0,"end":0,"doc_count":22}
+{"index": {"_index":"sample-statistics-2020.11","_type":"statistics","_id":"2020-11-22T13:15:00.000Z"}}
+{"name":"meter01","from":"10.102.5.221","location":"xinzhuang","received":"2020-11-22T13:16:00.148Z","value":0,"timestamp":"2020-11-22T13:15:00.000Z","mpm":0,"max":0,"min":0,"start":0,"end":0,"doc_count":21}
